@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "zack",
+      "email": "zack@learn.com",
+      "age": 27
+    },
+    {
+      "id": "3",
+      "name": "jack",
+      "email": "jack@learn.com",
+      "age": 27
+    },
+    {
+      "id": "4",
+      "name": "vaack",
+      "email": "vaack@learn.com",
+      "age": 27
+    },
+    {
+      "name": "zack",
+      "email": "zack@163.com",
+      "age": 12,
+      "id": "ByJLItE_-"
+    }
+  ]
+}
